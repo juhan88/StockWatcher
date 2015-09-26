@@ -5,9 +5,6 @@ public class StockPrice {
 	  private double price;
 	  private double change;
 
-	  public StockPrice() {
-	  }
-
 	  public StockPrice(String symbol, double price, double change) {
 	    this.symbol = symbol;
 	    this.price = price;

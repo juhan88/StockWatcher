@@ -16,7 +16,6 @@ import com.google.appengine.api.users.UserService;
 import com.google.appengine.api.users.UserServiceFactory;
 import com.google.gwt.sample.stockwatcher.client.NotLoggedInException;
 import com.google.gwt.sample.stockwatcher.client.StockService;
-import com.google.gwt.sample.stockwatcher.shared.Stock;
 import com.google.gwt.user.client.Window;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
